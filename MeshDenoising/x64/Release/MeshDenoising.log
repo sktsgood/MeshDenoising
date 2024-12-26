@@ -1,0 +1,39 @@
+﻿  源.cpp
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(140,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(206,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(263,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(240,1): warning C4244: “*=”: 从“const OtherScalar”转换到“_Ty”，可能丢失数据
+          with
+          [
+              OtherScalar=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(264): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(264): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(194): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<double>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(194): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<double>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+  正在生成代码
+  1 of 4179 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MeshDenoising.vcxproj -> F:\c++ workplace\MeshDenoising\x64\Release\MeshDenoising.exe

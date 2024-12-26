@@ -1,0 +1,106 @@
+﻿  源.cpp
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(256,34): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(642,57): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(643,57): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(644,57): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(682,31): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(683,31): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(684,31): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(690,39): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(691,39): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(692,39): warning C4244: “=”: 从“double”转换到“Scalar”，可能丢失数据
+          with
+          [
+              Scalar=float
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(252,1): warning C4244: “/=”: 从“const OtherScalar”转换到“_Ty”，可能丢失数据
+          with
+          [
+              OtherScalar=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(274): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator /=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(274): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator /=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(64): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator /<double>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(64): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator /<double>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(240,1): warning C4244: “*=”: 从“const OtherScalar”转换到“_Ty”，可能丢失数据
+          with
+          [
+              OtherScalar=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(264): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\OpenMesh 9.0\include\OpenMesh\Core\Geometry\Vector11T.hh(264): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(206): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<OtherScalar>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp(206): message : 查看对正在编译的函数 模板 实例化“OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<OtherScalar>(const OtherScalar &) const”的引用
+          with
+          [
+              OtherScalar=double
+          ]
+F:\c++ workplace\MeshDenoising\MeshDenoising\源.cpp : fatal error C1128: 节数超过对象文件格式限制: 请使用 /bigobj 进行编译
